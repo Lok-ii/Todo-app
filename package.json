@@ -1,0 +1,27 @@
+{
+  "name": "todo-app",
+  "version": "1.0.0",
+  "description": "A simple todo app",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lok-ii/Todo-app.git"
+  },
+  "keywords": [
+    "todo",
+    "task"
+  ],
+  "author": "Lokesh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lok-ii/Todo-app/issues"
+  },
+  "homepage": "https://github.com/Lok-ii/Todo-app#readme",
+  "dependencies": {
+    "nodemon": "^3.0.3"
+  }
+}
